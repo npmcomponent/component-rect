@@ -1,12 +1,12 @@
 {
-  "name": "rect",
-  "version": "0.0.0",
-  "devDependencies": {
-    "mocha": "*",
-    "better-assert": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/rect.git"
-  }
+  "name": "component-rect",
+  "description": "Rect prototype (abstract, use it for dom, canvas, etc)",
+  "version": "0.1.0",
+  "keywords": [
+    "rect",
+    "rectangle",
+    "canvas"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
